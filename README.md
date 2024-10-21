@@ -4,7 +4,7 @@ Welcome to my portfolio! I'm a self-taught Full-Stack Developer with a passion f
 
 ## 🌟 Project Overview
 
-![Portfolio Screenshot](./images/screenshot.png)
+![Portfolio Screenshot](./images/Screenshot.png)
 This is a screenshot of my portfolio website.
 
 This portfolio website highlights:
