@@ -4,6 +4,9 @@ Welcome to my portfolio! I'm a self-taught Full-Stack Developer with a passion f
 
 ## 🌟 Project Overview
 
+![Portfolio Screenshot](./images/screenshot.png)
+This is a screenshot of my portfolio website.
+
 This portfolio website highlights:
 
 - 🖥️ A brief introduction and hero section.
@@ -40,8 +43,8 @@ The portfolio is structured as follows:
 ├── index.html         # Main HTML file
 ├── style.css          # Main CSS file
 ├── script.js          # JavaScript file for interactivity
-├── images/            # Placeholder file located here
-│   └── soon           # Placeholder file without an extension
+├── images/
+│   └── Screenshot.png
 └── README.md          # Project documentation
 ```
 
